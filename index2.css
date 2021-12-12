@@ -1,0 +1,76 @@
+.heading{
+    color: white;
+    background-color: black;
+    border: 1px;
+    height: 100px;
+    
+    
+}
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+
+
+}
+li{
+    float: left;
+}
+li a{
+    text-decoration: none;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 22px;
+}
+li a:hover{
+    color: yellow;
+    background-color: green;
+}
+marquee{
+    height: 50px;
+    width: 1215px;
+    background-color: black;
+    color: white;
+    
+    
+}
+.blog{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    height: 600px;
+    width: 270px;
+    float: left;
+    overflow: scroll;
+    
+    
+    
+}
+.button{
+    margin: 15px;
+    margin: 5px;
+    height: 50px;
+    width: 292px;
+    float: left;
+    background-color: #333;
+    color: white;
+}
+.button:hover{
+    background-color: red;
+}
+.blog2{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    height: 600px;
+    width: 270px;
+    float: left;
+    overflow: scroll;
+}
